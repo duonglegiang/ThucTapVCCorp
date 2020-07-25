@@ -1,0 +1,32 @@
+id,name,population,id_country
+10,"Hà Nội",300,1
+20,"Bắc Kinh",1000,2
+30,Washington,200,3
+40,"Thanh Hóa",310,4
+50,Tokyo,100,5
+60,"Thanh Chương",110,6
+70,"Thanh Tiên",90,7
+80,"Đà Nẵng",600,8
+90,"Hà Tĩnh",290,9
+101,"Thanh Hòa",12,1
+102,"Thanh Chung",12,5
+103,"Thanh Văn",33,3
+104,"Đồng Văn",22,8
+105,Vinh,1,2
+106,"Hà Tây",2,2
+107,"Hà Nam",3,2
+108,"Hà Đông",4,1
+109,"Sài Gòn",5,3
+110,"Vũng Tàu",6,4
+190,"Hậu Giang",22,7
+222,"Cà Mau",7,9
+223,"Hà Giang",88,5
+224,"Phú Thọ",55,8
+331,"Khánh Hòa",11,1
+332,"Gia Lai",2,1
+333,"Tứ Xuyên",33,8
+339,"Ninh Bình",33,2
+444,"Thượng Hải",44,6
+995,"Tiền Giang",1,7
+998,"Bạc Liêu",19,4
+999,"An Giang",90,8

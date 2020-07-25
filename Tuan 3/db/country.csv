@@ -1,0 +1,10 @@
+code,name,continent,surfaceArea,population_country,gnp,capital
+1,"Việt Nam","Châu Á",2000,600,1000,10
+2,"Trung Quốc","Châu Á",10000,3000,100,20
+3,Mỹ,"Châu Âu",3000,1200,200,30
+4,Nga,"Châu Âu",9000,2300,250,40
+5,"Nhật Bản","Châu Á",2100,900,150,50
+6,"Hàn Quốc","Châu Á",1200,800,159,60
+7,"Nam Phi","Châu Phi",6050,100,666,70
+8,"Tây Ban Nha","Châu Âu",600,690,599,80
+9,"Mông Cổ","Châu Á",900,650,123,90
