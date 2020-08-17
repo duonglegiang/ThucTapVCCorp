@@ -1,0 +1,10 @@
+/home/giang/Desktop/darknet_gg2/darknet/libdark.so
+/home/giang/Desktop/darknet_gg2/darknet/include/darknet/darknet.h
+/home/giang/Desktop/darknet_gg2/darknet/include/darknet/yolo_v2_class.hpp
+/home/giang/Desktop/darknet_gg2/darknet/uselib
+/home/giang/Desktop/darknet_gg2/darknet/darknet
+/home/giang/Desktop/darknet_gg2/darknet/uselib_track
+/home/giang/Desktop/darknet_gg2/darknet/share/darknet/DarknetTargets.cmake
+/home/giang/Desktop/darknet_gg2/darknet/share/darknet/DarknetTargets-release.cmake
+/home/giang/Desktop/darknet_gg2/darknet/share/darknet/DarknetConfig.cmake
+/home/giang/Desktop/darknet_gg2/darknet/share/darknet/DarknetConfigVersion.cmake
