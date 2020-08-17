@@ -1,0 +1,1000 @@
+  676  sudo remove libmysqlclient21
+  677  sudo remove libmysqlclient
+  678  sudo remove libmysqlclient21:amd64
+  679  sudo dpkg --remove --force-all mysql-server mysql-community-client mysql-common mysql-community-client-core libmysqlclient20 libmysqlclient21 mysql-client mysql-community-server-core mysql-community-server
+  680  sudo apt update
+  681  sudo apt upgrade
+  682  sudo apt --fix-broken install
+  683  sudo sudo dpkg -r libmysqlclient20:amd64
+  684  sudo dpkg -r libmysqlclient20:amd64
+  685  sudo dpkg -r libmysqlclient21:amd64
+  686  sudo dpkg --remove libmysqlclient21:amd64
+  687  sudo dpkg --remove --force-all libmysqlclient21:amd64
+  688  sudo dpkg --configure -a
+  689  sudo apt -f install
+  690  sudo dpkg remove 
+  691  sudo dpkg remove libmysqlclient21
+  692  sudo apt update
+  693  sudo apt upgrade
+  694  sudo remove libmysqlclient21
+  695  sudo apt remove libmysqlclient21
+  696  sudo dpkg --r libmysqlclient21
+  697  sudo dpkg -r libmysqlclient21
+  698  sudo dpkg -r libmysqlclient21:i386
+  699  sudo dpkg -r libmysqlclient21:amd64
+  700  sudo dpkg --purge libmysqlclient21:amd64
+  701  sudo dpkg -r --purge libmysqlclient21:amd64
+  702  sudo apt-get clean
+  703  sudo apt-get update
+  704  sudo dpkg -r mysql-client-5.7
+  705  sudo dpkg -r mysql-server-5.7
+  706  sudo dpkg -r libmysqlclient20:i386
+  707  sudo dpkg -r libmysqlclient20:amd64
+  708  sudo dpkg -r libmysqlclient18:amd64
+  709  sudo dpkg -r mysql-common
+  710  sudo dpkg -r mysql
+  711  sudo apt update
+  712  sudo apt upgrade
+  713  sudo dpkg -r libmysqlclient21
+  714  sudo dpkg -r libsnmp35
+  715  sudo apt remove libsnmp35
+  716  sudo apt remove libhpmud0
+  717  sudo apt autoremove
+  718  sudo apt --fix-broken install
+  719  sudo dpkg -i --force-overwrite /var/cache/apt/archives/libmysqlclient21_8.0.20-0ubuntu0.20.04.1_amd64.deb
+  720  sudo apt upgrade
+  721  sudo apt update
+  722  sudo apt upgrade
+  723  sudo apt update
+  724  sudo apt install mysql-server
+  725  sudo mysql_secure_installation
+  726  sudo apt install mysql-server
+  727  sudo mysql_secure_installation
+  728  sudo mysql -u root -p
+  729  sudo apt update
+  730  sudo apt upgrade
+  731  sudo apt -f install
+  732  sudo apt autoremove
+  733  sudo mysql
+  734  systemctl status mysql.service
+  735  sudo apt install mysql-workbench
+  736  sudo mysql -u root
+  737  mysql -u root -p
+  738  sudo mysql -u tooy
+  739  sudo mysql -u root -p
+  740  sudo apt install mysql-server mysql-client -y
+  741  sudo mysql
+  742  sudo apt update
+  743  sudo apt upgrade
+  744  sudo apt -f install
+  745  mysql -u root
+  746  sudo -i
+  747  ls
+  748  sudo dpkg -i mysqlw.deb
+  749  sudo apt install mysql-workbench-community
+  750  sudo apt --fix-broken install
+  751  sudo apt install mysql-workbench-community
+  752  sudo dpkg -i mysqlw.deb
+  753  mysql --version
+  754  sudo apt update
+  755  sudo apt upgrade
+  756  sudo apt-get install mysql-server mysql-common mysql-client
+  757  sudo apt-cache policy mysql-workbench
+  758  apt-cache policy mysql-workbench
+  759  sudo apt-get install mysql-workbench
+  760  sudo systemctl status mysql
+  761  sudo mysql
+  762  sudo mysql -u root -p
+  763  mysql-server --version
+  764  mysql --version
+  765  sudo apt update
+  766  sudo apt upgrade
+  767  sudo apt -f instal
+  768  sudo apt -f install
+  769  sudo mysql -u root -p
+  770  sudo apt -f install
+  771  sudo mysql -u root -p
+  772  sudo apt-get install -y mysql-community-server
+  773  sudo apt update
+  774  sudo apt upgrade
+  775  sudo mysql;
+  776  sudo mysql
+  777  sudo mysql
+  778  sudo mysql -h localhost -u root -p
+  779  history
+  780  sudo mysql -u root p
+  781  sudo mysql -u root -p
+  782  1
+  783  sudo mysql
+  784  sudo mysql -u root -p
+  785  sudo mysql
+  786  sudo mysql -u root -p
+  787  sudo apt install libmysql-java
+  788  sudo apt-get install libmysql-java
+  789  sudo apt install libmariadb-java
+  790  GRANT ALL ON *.* to root@'%' IDENTIFIED BY '12345678';
+  791  sudo mysql
+  792  java --version
+  793  mysql --version
+  794  sudo apt update
+  795  sudo apt upgrade
+  796  sudo apt update
+  797  sudo apt -f install
+  798  sudo apt autoremove
+  799  sudo apt upgrade
+  800  sudo apt update
+  801  jupyter notebook
+  802  sudo apt upgrade
+  803  sudo apt update
+  804  sudo apt upgrade
+  805  jupyter notebook
+  806  sudo apt update
+  807  sudo apt upgrade
+  808  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan2/bt2_url.py
+  809  pip install face-detection
+  810  pip install imutils
+  811  /usr/bin/python3 /home/giang/Documents/FR/FR1/face_detect_and_save.py
+  812  /usr/bin/python3 /home/giang/Documents/FR/FR1/main.py
+  813  /usr/bin/python3 /home/giang/Documents/FR/FR1/model.py
+  814  /usr/bin/python3 /home/giang/Documents/FR/FR1/main.py
+  815  sudo apt update
+  816  sudo apt upgrade
+  817  pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+  818  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan2/bt2_url.py
+  819  pip install pylint-django
+  820  sudo apt update
+  821  sudo apt upgrade
+  822  jupyter notebook
+  823  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/submit.py
+  824  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color2.py
+  825  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color2.py /home/giang/Documents/Toiuutohop/coloring/data/gc_4_1
+  826  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py
+  827  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py /home/giang/Documents/Toiuutohop/coloring/data/gc_4_1
+  828  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/submit.py
+  829  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/submit.py
+  830  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/submit.py
+  831  /usr/bin/python3 /home/giang/Documents/Toiuutohop/knapsack/submit.py
+  832  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  833  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/knapsack/data/ks_4_0
+  834  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/tsp.py
+  835  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/tsp.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  836  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  837  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py import sys
+  838  if __name__ == '__main__':;     import sys;     if len(sys.argv) > 1:
+  839  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  840  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  841  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  842  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  843  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  844  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  845  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  846  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  847  /usr/bin/python3 /home/giang/Downloads/TspMIP.py
+  848  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  849  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  850  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  851  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  852  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  853  /usr/bin/python3 /home/giang/Downloads/TspMIP.py
+  854  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  855  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  856  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  857  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  858  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  859  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  860  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solver.py
+  861  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solver.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_5_1
+  862  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  863  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_51_1
+  864  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py
+  865  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/solverMIP.py /home/giang/Documents/Toiuutohop/tsp/data/tsp_51_1
+  866  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp/submit.py
+  867  /usr/bin/python3 /home/giang/Documents/Toiuutohop/facility/submit.py
+  868  /usr/bin/python3 /home/giang/Documents/Toiuutohop/NhanhCat/branchcut.py
+  869  /usr/bin/python3 /home/giang/Documents/Toiuutohop/GomoryCut/gomorycuts.py
+  870  pip install pylint
+  871  pip install pylint-django
+  872  /usr/bin/python3 /home/giang/Documents/Toiuutohop/tsp_2_opt/submit.py
+  873  /usr/bin/python3 /home/giang/Documents/Toiuutohop/knapsack/submit.py
+  874  sudo apt update
+  875  sudo apt upgrade
+  876  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py
+  877  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py /home/giang/Documents/Toiuutohop/coloring/data/gc_4_1
+  878  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py
+  879  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py /home/giang/Documents/Toiuutohop/coloring/data/gc_4_1
+  880  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py
+  881  /usr/bin/python3 /home/giang/Documents/Toiuutohop/coloring/color.py /home/giang/Documents/Toiuutohop/coloring/data/gc_4_1
+  882  sudo apt update
+  883  sudo apt upgrade
+  884  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan2/CheckURL.py
+  885  sudo apt update
+  886  sudo apt upgrade
+  887  sudo apt update
+  888  sudo apt upgrade
+  889  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan2/CheckURL.py
+  890  /usr/bin/python3 /home/giang/Desktop/Test/ML/testthuvien.py
+  891  jupyter notebook
+  892  sudo apt update
+  893  sudo apt upgrade
+  894  sudo apt update
+  895  sudo apt upgrade
+  896  sudo apt autoremove
+  897  sudo apt -f install
+  898  /usr/bin/python3 /home/giang/Desktop/Test/ML/testthuvien.py
+  899  pip install labelImg
+  900  sudo apt update
+  901  sudo apt upgrade
+  902  sudo apt update
+  903  sudo apt upgrade
+  904  jupyter notebook
+  905  sudo apt update
+  906  sudo apt upgrade
+  907  sudo apt update
+  908  sudo apt upgrade
+  909  pip install labelImg
+  910  sudo apt update
+  911  sudo apt upgrade
+  912  jupyter notebook
+  913  /usr/bin/python3 /home/giang/Desktop/Test/ML/testthuvien.py
+  914  sudo apt update
+  915  sudo apt upgrade
+  916  sudo apt autoremove
+  917  sudo apt -f install
+  918  jupyter notebook
+  919  sudo apt update
+  920  sudo apt upgrade
+  921  java --version
+  922  sudo apt update
+  923  sudo apt upgrade
+  924  jupyter notebook
+  925  sudo apt update
+  926  sudo apt upgrade
+  927  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/test_b3.py
+  928  tensorflow --version
+  929  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/test_b3.py
+  930  pip search /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/test_b3.py
+  931  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/test_b3.py
+  932  pip unistall imageai
+  933  pip uninstall imageai
+  934  pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+  935  pip install h5py
+  936  pip install pillow
+  937  pip install --upgrade tensorflow
+  938  pip uninstall https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+  939  pip install imageai
+  940  python3 -c 'import tensorflow as tf; print(tf.__version__)'
+  941  pip search="tensorflow"
+  942  pip search "tensorflow"
+  943  pip install tensorflow==1.14.0
+  944  pip install tensorflow==1.12
+  945  pip install tensorflow
+  946  pip install imageai --upgrade
+  947  /usr/bin/python3 /home/giang/Desktop/Test/ML/testthuvien.py
+  948  sudo apt update
+  949  sudo apt upgrade
+  950  jupyter notebook
+  951  sudo apt remove teamviewer
+  952  sudo apt update
+  953  sudo apt upgrade
+  954  jupyter notebook
+  955  sudo apt update
+  956  sudo apt upgrade
+  957  jupyter notebook
+  958  sudo apt update
+  959  sudo apt upgrade
+  960  jupyter notebook
+  961  sudo apt update
+  962  sudo apt upgrade
+  963  jupyter notebook
+  964  sudo apt update
+  965  jupyter notebook
+  966  pip install shutil
+  967  sudo apt update
+  968  sudo apt upgrade
+  969  jupyter notebook
+  970  sudo apt update
+  971  sudo apt upgrade
+  972  /usr/bin/python3 /home/giang/Desktop/Test/ML/doiten.py
+  973  usr/bin/python3 /home/giang/Desktop/Test/ML/doiten.py
+  974  /usr/bin/python3 /home/giang/Desktop/Test/ML/doiten.py
+  975  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/svm.py
+  976  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/test.py
+  977  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/word_version_3.py
+  978  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/test.py
+  979  pip install PIL
+  980  pip install numpy
+  981  pip install tkinter
+  982  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/test.py
+  983  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/word_version_3.py
+  984  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/split_word.py
+  985  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/pre_processing_comment.py
+  986  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/svm.py
+  987  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/word_version_3.py
+  988  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/svm.py
+  989  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/test.py
+  990  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/svm.py
+  991  /usr/bin/python3 /home/giang/Downloads/Lazada_ML/Lazada_SVM/test.py
+  992  jupyter notebook
+  993  sudo apt update
+  994  sudo apt upgrade
+  995  sudo apt update
+  996  sudo apt upgrade
+  997  jupyter notebook
+  998  /usr/bin/python3 /home/giang/Desktop/Test/ML/testthuvien.py
+  999  /usr/bin/python3 /home/giang/Desktop/Test/ML/doiten.py
+ 1000  sudo apt-get install openvpn network-manager-openvpn
+ 1001  gen ssh-key
+ 1002  sudo apt install multimon
+ 1003  gen ssh-key
+ 1004  sudo apt update
+ 1005  sudo apt upgrade
+ 1006  jupyter notebook
+ 1007  sudo apt update
+ 1008  sudo apt upgrade
+ 1009  jupyter notebook
+ 1010  gen ssh-key
+ 1011  sudo apt-get install -y putty
+ 1012  putty
+ 1013  ssh-keygen -t rsa
+ 1014  sudo apt update
+ 1015  sudo apt upgrade
+ 1016  jupyter notebook
+ 1017  sudo apt update
+ 1018  sudo apt upgrade
+ 1019  ssh -p 2395 10.5.0.184
+ 1020  ssh -p 2395 giang@10.5.0.184
+ 1021  ssh -p 2395 giangdl@10.5.0.184
+ 1022  952287
+ 1023  ssh -p 2395 giangdl@10.5.0.184
+ 1024  ifcofig
+ 1025  ipconfig
+ 1026  ifconfig
+ 1027  sudo apt install net-tools
+ 1028  ifconfig
+ 1029  ifconfig -a
+ 1030  sudo apt update
+ 1031  sudo apt upgrade
+ 1032  jupyter notebook
+ 1033  sudo apt install nvtop
+ 1034  Nvtop
+ 1035  sudo apt install nvtop
+ 1036  nvtop
+ 1037  sudo apt update
+ 1038  sudo apt upgrade
+ 1039  sudo apt -f install
+ 1040  nvtop
+ 1041  Nvtop
+ 1042  nvtop
+ 1043  nvidia-smi
+ 1044  ssh -p 2395 10.5.0.184
+ 1045  ssh -p 2395 giang@10.5.0.184
+ 1046  ssh -p 2395 giangdl@10.5.0.184
+ 1047  nvtop
+ 1048  nvcc --version
+ 1049  sudo apt install nvidia-cuda-toolkit
+ 1050  nvidia-smi
+ 1051  nvtop
+ 1052  sudo apt update
+ 1053  nvcc  --version
+ 1054  sudo apt update
+ 1055  sudo apt upgrade
+ 1056  jupyter notebook
+ 1057  nvdia-smi
+ 1058  nvidia-smi
+ 1059  nvtop
+ 1060  sudo apt install nvtop
+ 1061  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-repo-ubuntu1804_10.1.243-1_amd64.deb
+ 1062  sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
+ 1063  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-repo-ubuntu1804_10.1.243-1_amd64.deb
+ 1064  sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
+ 1065  sudo dpkg -i cuda-repo-ubuntu1804_10.1.243-1_amd64.deb
+ 1066  sudo apt-get update
+ 1067  wget http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1804/x86_64/nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb
+ 1068  sudo apt install ./nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb
+ 1069  sudo apt update
+ 1070  sudo apt upgrade
+ 1071  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1072  sudo apt install nvidia-cuda-toolkit
+ 1073  sudo apt update
+ 1074  sudo apt upgrade
+ 1075  sudo apt unistall sudo apt-get install --no-install-recommends >     cuda-10-1 >     libcudnn7=7.6.5.32+cuda10.1  >     libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1076  sudo apt unistall --no-install-recommends >     cuda-10-1 >     libcudnn7=7.6.5.32+cuda10.1  >     libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1077  sudo apt unistall sudo apt-get install --no-install-recommends >     cuda-10-1 >     libcudnn7=7.6.5.32+cuda10.1  >     libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1078  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32-1+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1079  sudo apt update
+ 1080  sudo apt upgrade
+ 1081  sudo apt --fix-broken install
+ 1082  sudo apt autoremove
+ 1083  sudo apt --fix-broken install
+ 1084  sudo apt --fix-broken install -o Dpkg::Options::="--force-overwrite"
+ 1085  sudo apt update
+ 1086  sudo apt upgrade
+ 1087  sudo apt --fix broken
+ 1088  sudo --fix broken
+ 1089  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1090  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1091  sudo apt --fix-broken install -o Dpkg::Options::="--force-overwrite"
+ 1092  sudo apt autoremove
+ 1093  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32-1+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1094  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1095  sudo apt update
+ 1096  sudo apt upgrade
+ 1097  pip install tensorflow-gpu
+ 1098  pip install tensorflow
+ 1099  pip uninstall tensorflow-gpu
+ 1100  pip install tf-nightly 
+ 1101  nvidia-smi
+ 1102  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32-1+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1103  sudo apt update
+ 1104  sudo apt upgrade
+ 1105  sudo apt update
+ 1106  sudo apt upgrade
+ 1107  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32-1+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1108  nvtop
+ 1109  jupyter notebook
+ 1110  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1111  sudo apt autoremove
+ 1112  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1113  sudo apt install nvtop
+ 1114  sudo apt update
+ 1115  sudo apt upgrade
+ 1116  sudo apt update
+ 1117  sudo apt upgrade
+ 1118  sudo apt autoremove
+ 1119  sudo apt -f install
+ 1120  sudo apt install nvtop
+ 1121  nvtop --version
+ 1122  sudo apt install nvtop
+ 1123  nvidia-smi
+ 1124  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/extras/CUPTI/lib64
+ 1125  nvtop
+ 1126  sudo apt install nvtop
+ 1127  nvidia-smi
+ 1128  jupyter notebook
+ 1129  sudo apt update
+ 1130  sudo apt upgrade
+ 1131  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu2004/x86_64/cuda-ubuntu2004.pin
+ 1132  sudo mv cuda-ubuntu2004.pin /etc/apt/preferences.d/cuda-repository-pin-600
+ 1133  wget http://developer.download.nvidia.com/compute/cuda/11.0.2/local_installers/cuda-repo-ubuntu2004-11-0-local_11.0.2-450.51.05-1_amd64.deb
+ 1134  sudo dpkg -i cuda-repo-ubuntu2004-11-0-local_11.0.2-450.51.05-1_amd64.deb
+ 1135  sudo apt-key add /var/cuda-repo-ubuntu2004-11-0-local/7fa2af80.pub
+ 1136  sudo apt-get update
+ 1137  sudo apt-get -y install cuda
+ 1138  sudo apt update
+ 1139  sudo apt upgrade
+ 1140  sudo apt -f install
+ 1141  sudo apt autoremove
+ 1142  DD
+ 1143  sudo apt autoremove
+ 1144  sudo apt update
+ 1145  export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda/extras/CUPTI/lib64
+ 1146  sudo apt-get install --no-install-recommends     cuda-11-0     libcudnn7=7.6.5.32-1+cuda11.0      libcudnn7-dev=7.6.5.32-1+cuda11.0
+ 1147  sudo apt-get install --no-install-recommends     cuda-11-0
+ 1148  sudo apt-get uninstall --no-install-recommends     cuda-11-0     libcudnn7=7.6.5.32-1+cuda11.0      libcudnn7-dev=7.6.5.32-1+cuda11.0
+ 1149  which nvcc
+ 1150  cuda --version
+ 1151  sudo apt-get --purge remove cuda-10.1
+ 1152  sudo apt upgrade
+ 1153  sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran
+ 1154  sudo apt autoremove
+ 1155  sudo apt update
+ 1156  sudo apt upgrade
+ 1157  sudo apt-get install libhdf5-serial-dev hdf5-tools libhdf5-dev zlib1g-dev zip libjpeg8-dev liblapack-dev libblas-dev gfortran
+ 1158  sudo apt-get install python3-pip
+ 1159  sudo pip3 install -U pip
+ 1160  sudo apt-get install python3-libnvinfer-dev
+ 1161  sudo apt install nvtop
+ 1162  sudo apt-get --purge remove cuda-11.0
+ 1163  sudo apt update
+ 1164  sudo apt autoremove
+ 1165  nvdia-smi
+ 1166  nvidia-smi
+ 1167  sudo apt unistall 
+ 1168  sudo apt unistall libcudnn7
+ 1169  sudo apt uninstall libcudnn7
+ 1170  sudo apt update
+ 1171  sudo apt upgrade
+ 1172  nvidia-smi
+ 1173  sudo apt install nvidia-cuda-toolkit
+ 1174  sudo apt-get --purge remove cuda-10.1
+ 1175  sudo apt autoremove
+ 1176  sudo apt-get --purge remove cuda-10-1
+ 1177  sudo apt-get --purge remove libcuda-10.1-1
+ 1178  sudo apt autoremove
+ 1179  sudo apt update
+ 1180  sudo apt upgrade
+ 1181  jupyter notebook
+ 1182  sudo apt update
+ 1183  wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/cuda-repo-ubuntu1804_10.1.243-1_amd64.deb
+ 1184  sudo apt-key adv --fetch-keys https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/x86_64/7fa2af80.pub
+ 1185  sudo dpkg -i cuda-repo-ubuntu1804_10.1.243-1_amd64.deb
+ 1186  sudo apt-get update
+ 1187  wget http://developer.download.nvidia.com/compute/machine-learning/repos/ubuntu1804/x86_64/nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb
+ 1188  sudo apt install ./nvidia-machine-learning-repo-ubuntu1804_1.0.0-1_amd64.deb
+ 1189  sudo apt-get update
+ 1190  sudo apt-get install --no-install-recommends nvidia-driver-450
+ 1191  nvidia-smi
+ 1192  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32-1+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1193  sudo apt-get install --no-install-recommends     cuda-10-1     libcudnn7=7.6.5.32-1+cuda10.1      libcudnn7-dev=7.6.5.32-1+cuda10.1
+ 1194  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1195  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1196  sudo apt update
+ 1197  sudo apt upgrade
+ 1198  sudo apt update
+ 1199  sudo apt autoremove
+ 1200  sudo apt update
+ 1201  sudo apt upgrade
+ 1202  sudo apt-get install -y --no-install-recommends libnvinfer6=6.0.1-1+cuda10.1     libnvinfer-dev=6.0.1-1+cuda10.1     libnvinfer-plugin6=6.0.1-1+cuda10.1
+ 1203  sudo apt update
+ 1204  sudo apt upgrade
+ 1205  cd cuda_10.1
+ 1206  ls
+ 1207  nano ~/bashrc
+ 1208  /etc/profile.d/cuda.sh
+ 1209  sudo /etc/profile.d/cuda.sh
+ 1210  sudo nano /etc/profile.d/cuda.sh
+ 1211  sudo chmod +x /etc/profile.d/cuda.sh
+ 1212  sudo nano /etc/ld.so.conf.d/cuda.conf
+ 1213  sudo ldconfig
+ 1214  reboot
+ 1215  jupyter notebook
+ 1216  reboot
+ 1217  pip uninstall tensorflow
+ 1218  pip uninstall tf-nightly
+ 1219  pip install tensorflow==2.2.0
+ 1220  pip install tf-nightly==2.2.0
+ 1221  pip show tensorflow
+ 1222  Sudo pip uninstall protobuf
+ 1223  Sudo pip uninstall tensorflow
+ 1224  sudo pip uninstall protobuf
+ 1225  sudo pip uninstall tensorflow
+ 1226  tensorflow
+ 1227  pip3 show tensorflow
+ 1228  pip3 uninstall tensorflow
+ 1229  pip3 uninstall tensorflow==2.4.0
+ 1230  pip install tensorflow==2.2.0
+ 1231  pip install tf-nightly
+ 1232  pip uninstall tf-nightly
+ 1233  pip show tensorflow
+ 1234  sudo pip uninstall protobuf
+ 1235  pip uninstall tensorflow
+ 1236  pip uninstall protobuf
+ 1237  pip install tensorflow==2.2.0
+ 1238  python
+ 1239  python3
+ 1240  sudo apt update
+ 1241  sudo apt upgrade
+ 1242  pip search "tf-nightly"
+ 1243  tensorflow
+ 1244  tensorflow --version
+ 1245  sudo nano /etc/profile.d/cuda.sh
+ 1246  pip install --upgrade pip
+ 1247  # Current stable release for CPU and GPU
+ 1248  pip install tensorflow
+ 1249  # Or try the preview build (unstable)
+ 1250  pip install tf-nightly
+ 1251  nvidia-msi
+ 1252  sudo apt update
+ 1253  sudo apt upgrade
+ 1254  nvtop
+ 1255  sudo apt install nvtop
+ 1256  sudo apt-get install --no-install-recommends nvidia-driver-450
+ 1257  nvidia-msi
+ 1258  nvidia-smi
+ 1259  pip install tf-nightly==2.2.0.dev20200410
+ 1260  sudo reboot
+ 1261  jupyter notebook
+ 1262  sudo apt update
+ 1263  sudo apt upgrade
+ 1264  jupyter notebook
+ 1265  pip install keras
+ 1266  pip install tensorflow
+ 1267  sudo apt-get uninstall --no-install-recommends nvidia-driver-450
+ 1268  sudo apt update
+ 1269  sudo apt upgrade
+ 1270  sudo apt autoremove
+ 1271  sudo nvidia-uninstall
+ 1272  sudo apt purge nvidia-driver-450
+ 1273  sudo apt autoremove
+ 1274  sudo apt update
+ 1275  sudo apt upgrade
+ 1276  pip unistall tf-nightly
+ 1277  pip unistall tf-nightly==2.2.0
+ 1278  pip uninstall tf-nightly
+ 1279  pip show tensorflow
+ 1280  pip unistall tensorflow
+ 1281  pip uninstall tensorflow
+ 1282  pip uninstall pip uninstall protobuf
+ 1283  pip uninstall protobuf
+ 1284  pip install tensorflow==2.2.0
+ 1285  sudo reboot
+ 1286  jupyter notebook
+ 1287  ssh -p 2395 giangdl@10.5.0.184
+ 1288  sudo apt update
+ 1289  sudo apt upgrade
+ 1290  jupyter notebook
+ 1291  jupyter notebook stop 8890
+ 1292  jupyter notebook stop 8889
+ 1293  jupyter notebook
+ 1294  jupyter notebook stop 8888
+ 1295  jupyter notebook 889
+ 1296  jupyter notebook 8889
+ 1297  jupyter notebook 8890
+ 1298  jupyter notebook stop 8890
+ 1299  jupyter notebook
+ 1300  ssh -p 2395 giangdl@10.5.0.184
+ 1301  scp -P 2395 /home/giang/Desktop/ThucTap/Tuan3 10.5.0.184:/home/giangdl/data
+ 1302  scp -P 2395 /home/giang/Desktop/ThucTap/Tuan3 giangdl@10.5.0.184:/home/giangdl/data
+ 1303  scp -P 2395 /home/giang/Desktop/ThucTap/Tuan3/b2_t3.h5 giangdl@10.5.0.184:/home/giangdl/data
+ 1304  scp -P 2395 /home/giang/Desktop/ThucTap/Tuan3.zip giangdl@10.5.0.184:/home/giangdl/data
+ 1305  telnet 172.18.5.28 8031
+ 1306  ssh -p 2395 giangdl@10.5.0.184
+ 1307  history
+ 1308  ssh -p 2395 172.18.5.28
+ 1309  history
+ 1310  telnet 172.18.5.28
+ 1311  sudo apt update
+ 1312  sudo apt upgrade
+ 1313  jupyter notebook
+ 1314  http://ssh%20-p%202395%20giangdl@10.5.0.184/
+ 1315  ssh -p 2395 giangdl@10.5.0.184
+ 1316  jupyter notebook
+ 1317  pip install imageai
+ 1318  ssh -p 2395ssh -p 2395 giangdl@10.5.0.184
+ 1319  ssh -p 2395 giangdl@10.5.0.184
+ 1320  jupyter notebook
+ 1321  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetection.py
+ 1322  sudo apt update
+ 1323  sudo apt upgrade
+ 1324  ssh -p 2395 giangdl@10.5.0.184
+ 1325  jupyter notebook
+ 1326  history
+ 1327  ssh -p 2395 giangdl@10.5.0.184
+ 1328  C/usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetection.py
+ 1329  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetection.py
+ 1330  sudo apt install libopencv-dev
+ 1331  pip install cmake
+ 1332  sudo apt update
+ 1333  sudo apt upgrade
+ 1334  make
+ 1335  sudo apt install gcc
+ 1336  sudo apt install g++
+ 1337  sudo apt update
+ 1338  jupyter notebook
+ 1339  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1340  make
+ 1341  chmod +x *.sh
+ 1342  make
+ 1343  touch yolo.data
+ 1344  touch yolo.names
+ 1345  touch train.txt val.txt
+ 1346  labelIMg
+ 1347  labelImg
+ 1348  history
+ 1349  ssh -p 2395 giangdl@10.5.0.184
+ 1350  nvidia-msi
+ 1351  nvidia-smi
+ 1352  jupyter notebook
+ 1353  history
+ 1354  ssh -p 2395 giangdl@10.5.0.184
+ 1355  sudo apt update
+ 1356  sudo apt upgrade
+ 1357  ls
+ 1358  history
+ 1359  jupyter notebook
+ 1360  ssh -p 2395 10.5.0.184
+ 1361  ssh -p 2395 giangdl@10.5.0.184
+ 1362  labelImg
+ 1363  htop
+ 1364  httop
+ 1365  ls
+ 1366  cd Desktop
+ 1367  ls
+ 1368  jupyter notebook
+ 1369  ssh -p 2395 giangdl@10.5.0.184
+ 1370  history
+ 1371  ssh -p 2395 giangdl@10.5.0.184
+ 1372  ssh -p giangdl@10.5.0.184
+ 1373  ssh -p 2395 giangdl@10.5.0.184
+ 1374  sudo apt update
+ 1375  sudo apt upgrade
+ 1376  history
+ 1377  ssh -p 2395 giangdl@10.5.0.184
+ 1378  jupyter notebook
+ 1379  sudo apt update
+ 1380  sudo apt upgrade
+ 1381  ls
+ 1382  history
+ 1383  ssh -p 2395 giangdl@10.5.0.184
+ 1384  pip install pytorch
+ 1385  python3 -m pip install --upgrade pip
+ 1386  pip install pytorch
+ 1387  nvidia-smi
+ 1388  pip list
+ 1389  nvidia-smi
+ 1390  history
+ 1391  ssh -p 2395 giangdl@10.5.0.184
+ 1392  history
+ 1393  ssh -p 2395 giangdl@10.5.0.184
+ 1394  nvidia-smi
+ 1395  nvcc-smi
+ 1396  nvcc --v
+ 1397  history
+ 1398  ssh -p 2395 giangdl@10.5.0.184
+ 1399  sudo apt update
+ 1400  sudo apt upgrade
+ 1401  pip search "opencv"
+ 1402  history
+ 1403  ssh -p giangdl@10.5.0.184
+ 1404  ssh -p 2395 giangdl@10.5.0.184
+ 1405  jupyter notebook
+ 1406  history
+ 1407  ssh -p 2395 giangdl@10.5.0.184
+ 1408  htop
+ 1409  history
+ 1410  ssh -p 2395 giangdl@10.5.0.184
+ 1411  history
+ 1412  ssh -p 2395 giangdl@10.5.0.184
+ 1413  labelImg
+ 1414  sudo apt update
+ 1415  history
+ 1416  ssh -p 2395 giangdl@10.5.0.184
+ 1417  htop
+ 1418  sudo apt install htop
+ 1419  htop
+ 1420  history
+ 1421  ssh -p 2395 giangdl@10.5.0.184
+ 1422  jupyter notebook
+ 1423  history
+ 1424  ssh -p 2395 giangdl@10.5.0.184
+ 1425  pip install keras
+ 1426  pip3 install imageai --upgrade
+ 1427  python YOLO.py -i anhtestvccorp -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1428  cd ..
+ 1429  ls
+ 1430  cd YOLO_begin
+ 1431  python YOLO.py -i cam2.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1432  pip install opencv-python
+ 1433  /usr/bin/python3 /home/giang/Desktop/YOLO_begin/YOLO.py
+ 1434  python YOLO.py -i cam2.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1435  cd ..
+ 1436  cd YOLO_begin
+ 1437  python YOLO.py -i cam2.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1438  pip install opencv-python
+ 1439  python YOLO.py -i cam2.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1440  python3 YOLO.py -i cam2.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1441  python3 YOLO.py -i anhtestvccorp.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1442  python3 YOLO.py -i anh34.png -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1443  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1444  python3 YOLO.py -i anhtu.jpg -cl yolov3.txt -w yolov3.weights -c yolov3.cfg
+ 1445  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1446  pip uninstall imageai
+ 1447  pip install imageaipip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+ 1448  pip install https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+ 1449  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1450  pip uninstall https://github.com/OlafenwaMoses/ImageAI/releases/download/2.0.1/imageai-2.0.1-py3-none-any.whl
+ 1451  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1452  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetection.py
+ 1453  cd ~/Tuan3
+ 1454  cd ..
+ 1455  ls
+ 1456  cd ThucTap
+ 1457  cd Tuan3
+ 1458  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetection.py
+ 1459  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1460  pip3 install h5py
+ 1461  pip3 install imageai --upgrade
+ 1462  ssh -p 2395 giangdl@10.5.0.184
+ 1463  pip uninstall tensorflow
+ 1464  pip install tensorflow==1.5.0
+ 1465  tensorflow==1.15
+ 1466  pip install tensorflow==1.15
+ 1467  pip install tensorflow==2.2.0
+ 1468  /usr/bin/python /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1469  pip install tensorflow==1.15
+ 1470  /usr/bin/python3 /home/giang/Desktop/ThucTap/Tuan3/MapDetect.py
+ 1471  make
+ 1472  pip install cmake
+ 1473  sudo apt install gcc
+ 1474  sudo apt install g++
+ 1475  sudo apt-get install build-essential
+ 1476  make
+ 1477  sudo apt-get uninstall build-essential
+ 1478  make
+ 1479  sudo make install
+ 1480  make
+ 1481  make
+ 1482  pip install opencv-pythn
+ 1483  pip install opencv-python
+ 1484  jupyter notebook
+ 1485  make
+ 1486  cmake --version
+ 1487  SUDO APT-GET INSTALL LIBOPENCV-DEV
+ 1488  sudo apt install libopencv-dev
+ 1489  make
+ 1490  pip uninstall tensorflow
+ 1491  pip install tensorflow==1.14.0
+ 1492  pip install tensorflow==1.15
+ 1493  pip install tensorflow==1.14
+ 1494  pip install tensorflow==2.2.0
+ 1495  pip list
+ 1496  pip search "tensorflow"
+ 1497  pip install tensorflow==1.14
+ 1498  ssh -p 2395 giangdl@10.5.0.184
+ 1499  sudo apt update
+ 1500  sudo apt upgrade
+ 1501  jupyter notebook
+ 1502  labelIMg
+ 1503  labelImg
+ 1504  pip uninstall labelImg
+ 1505  pip install labelImg
+ 1506  labelImg
+ 1507  make
+ 1508  chmod +x darknet
+ 1509  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1510  labelImg
+ 1511  history
+ 1512  chmod +x darknet
+ 1513  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1514  make
+ 1515  chmode +x darknet
+ 1516  chmod +x darknet
+ 1517  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1518  labelImg
+ 1519  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1520  history
+ 1521  make
+ 1522  scp -P 2395 /home/giang/Desktop/darknet_giang.zip 10.5.0.184:/home/giangdl/data
+ 1523  scp -P 2395 /home/giang/Desktop/darknet_giang.zip giangdl@10.5.0.184:/home/giangdl/data
+ 1524  ls
+ 1525  history
+ 1526  make
+ 1527  chmod +x darknet
+ 1528  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1529  history
+ 1530  history
+ 1531  jupyter notebook
+ 1532  jupyter notebook
+ 1533  ssh -p 2395 giangdl@10.5.0.184
+ 1534  ssh -p 2395 giangdl@10.5.0.184
+ 1535  jupyter notebook
+ 1536  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1537  make
+ 1538  pip install opencv
+ 1539  pip install opencv-python
+ 1540  sudo apt install libopencv-dev
+ 1541  pip install opencv-python
+ 1542  make
+ 1543  jupyter notebook
+ 1544  make
+ 1545  chmod +x darknet
+ 1546  1
+ 1547  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74
+ 1548  make
+ 1549  chmod +x darknet
+ 1550  ls
+ 1551  ./darknet detector train yolo.data cfg/yolov3.cfg darknet53.conv.74 detector train yolo.data yolo-tinyv4.cfg yolov4-tiny.conv.29
+ 1552  sudo apt-get install --no-install-recommends nvidia-driver-450
+ 1553  sudo apt-get uninstall --no-install-recommends nvidia-driver-450
+ 1554  history
+ 1555  sudo apt-get uninstall --no-install-recommends nvidia-driver-450
+ 1556  sudo apt update
+ 1557  sudo apt upgrade
+ 1558  sudo apt uninstall --no-install-recommends nvidia-driver-450
+ 1559  sudo apt uninstall  nvidia-driver-450
+ 1560  sudo apt uninstall nvidia-driver-450
+ 1561  sudo apt remove --no-install-recommends nvidia-driver-450
+ 1562  jupyter notebook
+ 1563  sudo dpkg -i tv.deb
+ 1564  teamviewer
+ 1565  sudo apt remove teamviewer
+ 1566  sudo apt update
+ 1567  sudo apt upgrade
+ 1568  ssh -p 2395 giangdl@10.5.0.184
+ 1569  ssh -p 2395 giangdl@10.5.0.184
+ 1570  sudo apt update
+ 1571  sudo apt upgrade
+ 1572  sudo apt autoremove
+ 1573  ssh -p 2395 giangdl@10.5.0.184
+ 1574  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights anhtest.jpg
+ 1575  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1576  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights anhtu.jpg
+ 1577  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights anh34.jpg
+ 1578  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights anh34.png
+ 1579  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test1.jpg
+ 1580  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test2.jpg
+ 1581  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test3.jpg
+ 1582  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_final.weights test3.jpg
+ 1583  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_final.weights anhvccorp.jpg
+ 1584  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_final.weights anhtestvccorp.jpg
+ 1585  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_final.weights anhtu.jpg
+ 1586  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_final.weights anh34.png
+ 1587  teamviewer
+ 1588  ssh -p 2395 giangdl@10.5.0.184
+ 1589  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_best.weights test3.jpg
+ 1590  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1591  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test5.jpg
+ 1592  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test6.jpg
+ 1593  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test7.jpg
+ 1594  ./darknet detector detect yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test7.jpg
+ 1595  ls
+ 1596  ./darknet detect yolo.data cfg/yolov4-tiny.cfg   backup/yolov4-tiny_best.weights test7.jpg
+ 1597  ./darknet detect yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_best.weights test7.jpg
+ 1598  jupyter notebook
+ 1599  ssh -p 2395 giangdl@10.5.0.184
+ 1600  /usr/bin/python3 /home/giang/Desktop/darknet_gg/darknet/YOLO.py
+ 1601  python3 YOLO.py -i anhtestvccorp.jpg -cl yolo.names -w backup/yolov4-tiny_best.weights -c cfg/yolov4-tiny.cfg
+ 1602  python3 YOLO.py -i anhtest.jpg -cl yolo.names -w backup/yolov4-tiny_best.weights -c cfg/yolov4-tiny.cfg
+ 1603  /usr/bin/python3 /home/giang/Desktop/darknet_gg/darknet/testyolov4.py
+ 1604  teamviewer
+ 1605  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_6000.weights anh34.png
+ 1606  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_6000.weights anhtu.jpg
+ 1607  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_5000.weights anhtu.jpg
+ 1608  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_1000.weights anhtu.jpg
+ 1609  ./darknet detector test yolo.data cfg/yolov3.cfg backup/yolov3_best.weights anhtestvccorp.jpg
+ 1610  ./darknet detector test yolo.data cfg/yolov3.cfg backup/yolov3_best.weights anh34.png
+ 1611  ./darknet detector test yolo.data cfg/yolov3.cfg backup/yolov3_best.weights test1.jpg
+ 1612  ./darknet detector test yolo.names cfg/yolov3.cfg backup/yolov3_best.weights test1.jpg
+ 1613  ./darknet detector test yolo.data cfg/yolov3.cfg backup/yolov3_best.weights test1.jpg
+ 1614  ./darknet detector test yolo.data cfg/yolov3.cfg backup/yolov3_best.weights test2.jpg
+ 1615  python3 YOLO.py -i anhtu.jpg -cl yolo.names -w backup/yolov3_best.weights -c cfg/yolov3.cfg
+ 1616  ssh -p 2395 giangdl@10.5.0.184
+ 1617  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1618  make
+ 1619  chmod +x darknet
+ 1620  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg backup/yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1621  jupyter notebook
+ 1622  labelImg
+ 1623  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1624  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anh34.jpg
+ 1625  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anh34.png
+ 1626  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_12000.weights anhtestvccorp.jpg
+ 1627  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_12000.weights anhtu.jpg
+ 1628  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_12000.weights anhtestvccorp.jpg
+ 1629  sudo apt update
+ 1630  sudo apt upgrade
+ 1631  labelImg
+ 1632  ssh -p 2395 giangdl@10.5.0.184
+ 1633  jupyter notebook
+ 1634  ssh -p 2395 giangdl@10.5.0.184
+ 1635  nano ~/.bashrc
+ 1636  jupyter notebook
+ 1637  ssh -p 2395 giangdl@10.5.0.184
+ 1638  jupyter notebook
+ 1639  labelImg
+ 1640  ssh -p 2395 giangdl@10.5.0.184
+ 1641  jupyter notebook
+ 1642  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1643  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtu.jpg
+ 1644  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anh34.png
+ 1645  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtu.png
+ 1646  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtu.jpg
+ 1647  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.png
+ 1648  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1649  make
+ 1650  chmod +x darknet
+ 1651  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1652  make
+ 1653  chmod +x darknet
+ 1654  ./darknet detector test yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1655  ./darknet detector test data/yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1656  labelImg
+ 1657  /usr/bin/python3 /home/giang/Desktop/darknet_gg2/darknet/testyolov4.py
+ 1658  make
+ 1659* 
+ 1660  chmod +x darknet
+ 1661  ./darknet detector test data/yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1662  /usr/bin/python3 /home/giang/Desktop/darknet_gg2/darknet/darknet.py
+ 1663  ./darknet detector test data/yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1664  /usr/bin/python3 /home/giang/Desktop/darknet_gg2/darknet/darknet.py
+ 1665  ./darknet detector test data/yolo.data cfg/yolov4-tiny.cfg yolov4-tiny_best.weights anhtestvccorp.jpg
+ 1666* 
+ 1667  ake
+ 1668  make
+ 1669  chmod +x darknet
+ 1670* 
+ 1671  make
+ 1672  ./darknet detector test data/yolo.data cfg/yolov4-tiny.cfg yolov4-tiny.conv.29 anhtestvccorp.jpg
+ 1673  history
+ 1674  history >> history.txt
+ 1675  history > history.txt
